@@ -44,7 +44,7 @@ footer {
 }
 
 #confettiButton {
-    margin: 0;
+    margin: 20px 0;
     padding: 0;
     background: none;
     border: none;
@@ -79,7 +79,7 @@ footer {
     animation: fall linear infinite;
 }
 .pushMe {
-    background-color: #629e9e;
+    background-color: red;
     font-size: 2rem;
     margin: 0 40% ;
     padding: 20px;
@@ -108,7 +108,7 @@ footer {
         font-size: 0.7rem;
     }
     .pushMe {
-        background-color: #629e9e;
+        background-color: red;
         font-size: 2rem;
         margin: 20% 20% 0;
         padding: 20px;
@@ -131,12 +131,12 @@ footer {
         font-size: 0.6rem;
     }
     .pushMe {
-        background-color: #629e9e;
+        background-color: red;
         font-size: 2rem;
         margin: 20% 20% 0;
         padding: 20px;
         color: #fff;
         border-radius: 20px;
-        box-shadow: 0 0 10px #fff;
+        box-shadow: 0 0 10px black;
     }
 }
